@@ -1,3 +1,9 @@
+sugar-base-0.98 (0.98-2) tatu; urgency=medium
+
+  * Tatu repackage.
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Sun, 03 May 2015 16:17:30 -0300
+
 sugar-base-0.98 (0.98-1) unstable; urgency=low
 
   * New dextrose release.
